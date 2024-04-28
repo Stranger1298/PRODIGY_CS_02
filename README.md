@@ -20,7 +20,7 @@ The aim of this project is to demonstrate how to perform pixel manipulation on i
 1. Clone the repository:
 
 
-    git clone https://github.com/yourusername/image-pixel-manipulation.git
+    git clone https://github.com/Stranger1298/PRODIGY_CS_02.git
 
 
 2. Install the required dependencies:
