@@ -23,18 +23,13 @@ The aim of this project is to demonstrate how to perform pixel manipulation on i
     git clone https://github.com/Stranger1298/PRODIGY_CS_02.git
 
 
-2. Install the required dependencies:
-
-   
-    pip install -r requirements.txt
-
 
 ### Usage
 
 1. Navigate to the repository directory:
 
-    
-    cd image-pixel-manipulation
+    cd PRODIGY_CS_02
+
  
 
 2. Run the Python scripts to perform pixel manipulation on images:
